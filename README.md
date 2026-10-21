@@ -1,16 +1,18 @@
-## Hi there 👋
+## Joel Jesusi
 
-<!--
-**joeljes95/joeljes95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Lima, Peru (UTC-5). I build and ship SaaS products with React, Next.js, TypeScript, Node.js and Supabase. Background in architecture, with two years building software for a US company in the AEC/BIM industry.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[firmaconcerteza.com](https://firmaconcerteza.com)**: due diligence SaaS for a client in Guatemala. Authentication, billing, credit system, multitenancy, admin panel and search engine. 6,500+ paid searches in production.
+- **[inducer.app](https://inducer.app)**: desktop SaaS built with React and Electron, with centralized web authentication and billing. Side project.
+
+Most of my client work lives in private repositories.
+
+### Stack
+
+React · Next.js · TypeScript · Node.js · Supabase · PostgreSQL · Electron
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/joeljesusi/?locale=en-US) · joeljes95@gmail.com
